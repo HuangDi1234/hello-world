@@ -1,0 +1,7 @@
+E:\worldshipsclient\trunk\ui\res\normal
+
+E:\worldshipsclient\trunk\ui\res\gameRes\ui\ocean_cruise_panel
+
+E:\worldshipsclient\trunk\worldship\scripts\app\ui\panel\building
+
+E:\worldshipsclient\trunk\worldship\scripts\app\game\controlers
